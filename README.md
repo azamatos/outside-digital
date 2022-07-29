@@ -46,7 +46,7 @@ Framework: express, nestJS
 4. Клонирование приложения с репозитория:
 
 ```bash
-git clone git@github.com:dominicarrojado/nestjs-postgres-boilerplate.git
+git clone https://github.com/azamatos/outside-digital.git
 ```
 
 5. Установка зависимостей и пакетов
